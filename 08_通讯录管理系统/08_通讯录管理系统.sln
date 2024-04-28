@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08_通讯录管理系统", "08_通讯录管理系统\08_通讯录管理系统.vcxproj", "{16822DAC-CA6B-4FFC-B216-6116728551FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16822DAC-CA6B-4FFC-B216-6116728551FB}.Debug|x64.ActiveCfg = Debug|x64
+		{16822DAC-CA6B-4FFC-B216-6116728551FB}.Debug|x64.Build.0 = Debug|x64
+		{16822DAC-CA6B-4FFC-B216-6116728551FB}.Debug|x86.ActiveCfg = Debug|Win32
+		{16822DAC-CA6B-4FFC-B216-6116728551FB}.Debug|x86.Build.0 = Debug|Win32
+		{16822DAC-CA6B-4FFC-B216-6116728551FB}.Release|x64.ActiveCfg = Release|x64
+		{16822DAC-CA6B-4FFC-B216-6116728551FB}.Release|x64.Build.0 = Release|x64
+		{16822DAC-CA6B-4FFC-B216-6116728551FB}.Release|x86.ActiveCfg = Release|Win32
+		{16822DAC-CA6B-4FFC-B216-6116728551FB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6924DB4-F079-4C65-B2A8-5739A0C7F45C}
+	EndGlobalSection
+EndGlobal
